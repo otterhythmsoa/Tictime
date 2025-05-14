@@ -8,6 +8,7 @@ Voici les fonctionnalités présentes dans l'application :
 
 Dans ce repository, vous trouverez le code java ainsi que le fichier executable seulement sous Windows.
 Pour cela, il faut installer une version de Java supérieur ou égale à la version 1.8.0
+L'application est exécutable à partir du fichier <br>Tictime.exe</br>
 
 Voici la structure de l'application : 
   - ihm : un dossier contenant l'interface graphique de l'application
