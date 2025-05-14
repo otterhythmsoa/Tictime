@@ -19,12 +19,12 @@ Voici la structure de l'application :
 
 J'ai décidé de suivre le modèle MVC pour avoir une structure claire et nette pour l'application.
 
-Je l'ai réalisé en parallèle avec mon stage pour faciliter les calculs que je réalisais
+Je l'ai réalisé en parallèle avec mon stage pour faciliter les calculs que je réalisais<br>
 afin de savoir si je suivais mes heures de travail.
 
 Je vous invite également à l'utiliser si ce genre de tâche vous est récurrente.
 
-Si vous avez des suggestions, des améliorations ou toutes autres questions,
+Si vous avez des suggestions, des améliorations ou toutes autres questions,<br>
 n'hésitez pas à me contacter par mail : tj.randrianarison@gmail.com
 
 Tictime, une application réalisée par Tsinjo RANDRIANARISON.
