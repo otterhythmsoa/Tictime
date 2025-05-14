@@ -6,8 +6,8 @@ Voici les fonctionnalités présentes dans l'application :
 - Addition : faire la somme de deux durées
 - Soustraction : faire la différence de deux durées
 
-Dans ce repository, vous trouverez le code java ainsi que le fichier executable seulement sous Windows.
-Pour cela, il faut installer une version de Java supérieur ou égale à la version 1.8.0
+Dans ce repository, vous trouverez le code java ainsi que le fichier executable seulement sous Windows.<br>
+Pour cela, il faut installer une version de Java supérieur ou égale à la version 1.8.0<br>
 L'application est exécutable à partir du fichier <b>Tictime.exe</b>
 
 Voici la structure de l'application : 
