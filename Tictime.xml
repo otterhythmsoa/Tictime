@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\adslc\3D Objects\Projets personnels\Informatique\Tictime\Tictime.jar</jar>
+  <outfile>C:\Users\adslc\3D Objects\Projets personnels\Informatique\Tictime\Tictime.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\adslc\Downloads\icone.ico</icon>
+  <jre>
+    <path>c:\GlobalJre;JAVA_HOME%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>v1.0</txtFileVersion>
+    <fileDescription>Tictime est une application qui permet de faire des calculs sur les heures que ça soit l&apos;addition ou la soustraction d&apos;une durée.</fileDescription>
+    <copyright>RRTM</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>v1.0</txtProductVersion>
+    <productName>Tictime</productName>
+    <companyName>Tsinjo RANDRIANARISON</companyName>
+    <internalName>Tictime</internalName>
+    <originalFilename>Tictime.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>FRENCH</language>
+  </versionInfo>
+</launch4jConfig>
